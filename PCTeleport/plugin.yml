@@ -1,0 +1,14 @@
+name: PlanetCraftTP
+main: me.djbiokinetix.teleport.Main
+author: DJBiokinetix
+version: 1.0
+description: >
+    Teletransporte al spawn del mundo.
+commands:
+   spawn:
+    description: spawn
+permissions:
+   spawn.set:
+    default: op
+   spawn.reload:
+    default: op
